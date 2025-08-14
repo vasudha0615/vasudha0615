@@ -1,5 +1,6 @@
-<!-- Typing Animation Banner -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F700&size=28&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Tulla+Vasudha;AI%2FML+%26+Data+Analytics+Enthusiast;Python+%7C+Machine+Learning+%7C+NLP;B.Tech+CSE+(AIML)+%7C+Graduating+2026)](https://git.io/typing-svg)
+# Hi 👋, I'm Tulla Vasudha
+A passionate AI/ML enthusiast from India
+
 
 ---
 
@@ -14,7 +15,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/vasudha-tulla-95b35a335" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://instagram.com/vasudhagoud06" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="mailto:vasudha@example.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="mailto:tullavasudha@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
