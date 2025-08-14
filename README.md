@@ -1,5 +1,6 @@
-# Hi 👋, I'm Tulla Vasudha
-A passionate AI/ML enthusiast from India
+<h1 align="center">Hi 👋, I'm Tulla Vasudha</h1>
+<h3 align="center">A passionate AIML enthusiast from India </h3>
+
 
 
 ---
