@@ -21,10 +21,14 @@
 
 ---
 
-### 🛠 Languages and Tools:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,git,github,linux,mysql,figma" height="45"/>
-</p>
+## ⚙️ Skills & Tools  
+**Languages:** Python, SQL  
+**Frameworks:** TensorFlow, PyTorch, Keras  
+**Machine Learning:** Regression, Classification, Clustering, Model Evaluation  
+**Deep Learning:** Neural Networks, CNNs, Transfer Learning  
+**Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn   
+**Version Control:** Git, GitHub  
+
 
 ---
 
