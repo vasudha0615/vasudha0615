@@ -24,8 +24,8 @@
 ## 🧠 Skills, Languages & Tools
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,seaborn" />
+<!-- Programming -->
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,seaborn" />
 </p>
 
 ---
