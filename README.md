@@ -25,7 +25,7 @@
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python," />
+  <img src="https://skillicons.dev/icons?i=python"/>
   <br>
 
   <!-- AI / Machine Learning -->
@@ -33,23 +33,12 @@
   <br>
 
   <!-- Data & Cloud -->
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode"/>
   <br>
 </p>
 
 ---
 
-### 💡 Core Skills  
-- Machine Learning & Deep Learning Fundamentals  
-- Model Training, Evaluation & Optimization  
-- Data Preprocessing & Feature Engineering  
-- Neural Networks, CNNs, RNNs, and Transfer Learning  
-- AI Project Workflow (Data → Model → Deployment)  
-- Python Programming & Automation  
-- Cloud Platforms: AWS, GCP, Azure (Basic Knowledge)  
-- Strong Problem Solving, Logical Thinking & Teamwork  
-
----
 
 ### 📊 GitHub Stats  
 <p align="center">
