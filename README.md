@@ -21,32 +21,12 @@
 
 ---
 
-## 🧠 Skills, Languages & Tools  
+## 🧠 Skills, Languages & Tools
 
 <p align="center">
   <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python"/>
-  <br>
-
-  <!-- AI / Machine Learning -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,seaborn,jupyter" />
-  <br>
-
-  <!-- Data & Cloud -->
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode"/>
-  <br>
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,seaborn,jupyter,git,github,linux,vscode" />
 </p>
-
----
-
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudha0615&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vasudha0615&show_icons=true&theme=tokyonight" />
-</p>
-  
-
 
 ---
 
