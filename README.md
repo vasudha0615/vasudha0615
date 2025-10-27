@@ -21,13 +21,42 @@
 
 ---
 
-## ⚙️ Skills & Tools  
-**Languages:** Python, SQL  
-**Frameworks:** TensorFlow, PyTorch, Keras  
-**Machine Learning:** Regression, Classification, Clustering, Model Evaluation  
-**Deep Learning:** Neural Networks, CNNs, Transfer Learning  
-**Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn   
-**Version Control:** Git, GitHub  
+## 🧠 Skills, Languages & Tools  
+
+<p align="center">
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=python," />
+  <br>
+
+  <!-- AI / Machine Learning -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,seaborn,jupyter" />
+  <br>
+
+  <!-- Data & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
+  <br>
+</p>
+
+---
+
+### 💡 Core Skills  
+- Machine Learning & Deep Learning Fundamentals  
+- Model Training, Evaluation & Optimization  
+- Data Preprocessing & Feature Engineering  
+- Neural Networks, CNNs, RNNs, and Transfer Learning  
+- AI Project Workflow (Data → Model → Deployment)  
+- Python Programming & Automation  
+- Cloud Platforms: AWS, GCP, Azure (Basic Knowledge)  
+- Strong Problem Solving, Logical Thinking & Teamwork  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudha0615&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vasudha0615&show_icons=true&theme=tokyonight" />
+</p>
+  
 
 
 ---
