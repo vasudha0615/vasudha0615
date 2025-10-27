@@ -20,11 +20,11 @@
 </p>
 
 ---
-
-## 🧠 Skills, Languages & Tools
+## 🧠 Skills, Languages & Tools  
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn,numpy,pandas,matplotlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn" />
+  <br>
 </p>
 
 ---
