@@ -1,59 +1,84 @@
-<h1 align="center">Hi 👋, I'm Tulla Vasudha</h1>
-<h3 align="center">A passionate AIML enthusiast from India </h3>
+# Hi, I'm Vasudha Tulla 👋
 
+🎓 B.Tech in Computer Science (AI & ML) | 2026  
+🏫 Global Institute of Engineering and Technology, Hyderabad  
+💼 Aspiring Data Analyst | AI & Machine Learning Enthusiast  
 
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vasudha0615&theme=tokyonight&no-frame=true&margin-w=5" alt="trophies"/>
-</p>
+I am a motivated Computer Science undergraduate with strong interest in **Data Analysis and Machine Learning**.  
+I have hands-on experience working with **real-world datasets**, building **prediction models**, and extracting **meaningful insights from data**.  
+Currently seeking **entry-level roles or internships** in **Data Analyst / AI-ML** domains.
 
 ---
 
-### 🌐 Connect with me:
-<p align="center">
-<a href="https://linkedin.com/in/vasudha-tulla-95b35a335" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://instagram.com/vasudhagoud06" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="mailto:tullavasudha@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-</p>
+## 🔧 Technical Skills
 
----
-## 🧠 Skills, Languages & Tools  
+**Programming Languages**
+- Python, JavaScript, SQL  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,pytorch,sklearn" />
-  <br>
-</p>
+**Data Analysis**
+- Pandas, NumPy  
+- Data Cleaning & Preprocessing  
+- Data Visualization (Matplotlib, Seaborn)  
+- Exploratory Data Analysis (EDA)  
 
----
+**Machine Learning**
+- Supervised Learning  
+- Regression & Classification  
+- NLP basics  
+- Model Evaluation  
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasudha0615&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vasudha0615&theme=tokyonight" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudha0615&layout=compact&theme=tokyonight" height="150"/>
-</p>
+**Web & Tools**
+- HTML, CSS, JavaScript  
+- Git, GitHub  
+- Jupyter Notebook, VS Code  
 
 ---
 
-### 🚀 Featured Project
-#### 📧 Spam Email Classifier (NLP + Machine Learning)
-A machine learning model to classify emails as spam or not spam using NLP techniques.
+## ⭐ Featured Projects
 
-**Tech Stack:** Python, Pandas, Scikit-learn, NLTK, TF-IDF  
-**Key Features:**
-- Text preprocessing (stopword removal, stemming)
-- Feature extraction using TF-IDF
-- Spam detection with ML models
-- Accuracy metrics and evaluation
+### 📈 Real-Time Price Prediction for E-Commerce
+**Tech Stack:** Python, Pandas, Machine Learning, Regression / Time-Series Concepts  
 
-🔗 **[View Project Repository](https://github.com/vasudha0615/spamemailclassifier)**
+- Built a real-time price prediction system for e-commerce products  
+- Analyzed historical pricing data to identify trends and patterns  
+- Performed data cleaning, preprocessing, and feature engineering  
+- Developed and evaluated machine learning models for price forecasting  
+- Generated insights to support data-driven pricing decisions  
+
+🔗 Repository: *(Add your repo link here)*
 
 ---
 
-⭐ *"Turning data into intelligent solutions!"*
+### 📬 Spam Email Classifier
+**Tech Stack:** Python, Machine Learning, NLP  
 
+- Developed a machine learning model to classify emails as spam or non-spam  
+- Applied text preprocessing techniques such as tokenization and vectorization  
+- Trained and evaluated classification models  
+- Improved understanding of NLP and supervised learning concepts  
+
+🔗 Repository: https://github.com/vasudha0615/spamemailclassifier
+
+---
+
+## 📂 Other Work & Practice
+- Implemented multiple **Python and JavaScript** mini projects to strengthen programming fundamentals  
+- Practiced **Data Structures and Algorithms** for logical thinking and interview preparation  
+- Regularly explore and experiment with new technologies through hands-on coding  
+
+---
+
+## 📈 Currently Learning
+- Advanced Data Analysis techniques  
+- SQL for data analytics  
+- Machine Learning model optimization  
+- Software engineering best practices  
+
+---
+
+## 🤝 Connect With Me
+- 💼 LinkedIn: *(Add your LinkedIn URL)*  
+- 📧 Email: *(Add professional email here)*  
+
+Thank you for visiting my GitHub profile!  
+I’m always eager to learn, collaborate, and grow as a data-driven professional.
