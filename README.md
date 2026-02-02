@@ -77,8 +77,10 @@ Currently seeking **entry-level roles or internships** in **Data Analyst / AI-ML
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: *(Add your LinkedIn URL)*  
-- 📧 Email: *(Add professional email here)*  
+- 💼 LinkedIn: *www.linkedin.com/in/
+vasudha-tulla-95b35a335
+*  
+- 📧 Email: *tullavasudha@gmail.com*  
 
 Thank you for visiting my GitHub profile!  
 I’m always eager to learn, collaborate, and grow as a data-driven professional.
