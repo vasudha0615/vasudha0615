@@ -13,7 +13,7 @@ Currently seeking **entry-level roles or internships** in **Data Analyst / AI-ML
 ## 🔧 Technical Skills
 
 **Programming Languages**
-- Python, JavaScript, SQL  
+- Python, SQL  
 
 **Data Analysis**
 - Pandas, NumPy  
@@ -27,8 +27,7 @@ Currently seeking **entry-level roles or internships** in **Data Analyst / AI-ML
 - NLP basics  
 - Model Evaluation  
 
-**Web & Tools**
-- HTML, CSS, JavaScript  
+**Tools** 
 - Git, GitHub  
 - Jupyter Notebook, VS Code  
 
