@@ -44,7 +44,7 @@ Currently seeking **entry-level roles or internships** in **Data Analyst / AI-ML
 - Developed and evaluated machine learning models for price forecasting  
 - Generated insights to support data-driven pricing decisions  
 
-🔗 Repository: *(Add your repo link here)*
+🔗 Repository: *https://github.com/vasudha0615/real-time-price-prediction-ecommerce.git*
 
 ---
 
@@ -61,7 +61,7 @@ Currently seeking **entry-level roles or internships** in **Data Analyst / AI-ML
 ---
 
 ## 📂 Other Work & Practice
-- Implemented multiple **Python and JavaScript** mini projects to strengthen programming fundamentals  
+- Implemented multiple **Python and ML** mini projects to strengthen programming fundamentals  
 - Practiced **Data Structures and Algorithms** for logical thinking and interview preparation  
 - Regularly explore and experiment with new technologies through hands-on coding  
 
