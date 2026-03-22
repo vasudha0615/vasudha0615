@@ -18,20 +18,13 @@
 
 </div>
 
-## 🧠 About Me
+🧠 About Me
 
-```python
-vasudha = {
-    "name"      : "Vasudha Tulla",
-    "degree"    : "B.Tech CSE (AI & ML) · 2026",
-    "college"   : "Global Institute of Engineering & Technology, Hyderabad",
-    "focus"     : ["Large Language Models", "Knowledge Graphs", "RAG Pipelines",
-                   "Data Science", "NLP", "Machine Learning"],
-    "currently" : "Building AI-powered enterprise solutions",
-    "looking_for": "AI/ML Engineering · Data Science · NLP roles",
-    "fun_fact"  : "I taught an AI to read support tickets and build knowledge graphs! 🧠"
-}
-```
+🎓 B.Tech in Computer Science (AI & ML) · Class of 2026
+🏫 Global Institute of Engineering & Technology, Hyderabad
+🛠️ Built an end-to-end AI enterprise platform during internship
+🔍 Love turning unstructured text into structured intelligence
+📊 Strong interest in Data Analytics, Machine Learning & NLP
 
 <br/>
 
@@ -159,7 +152,7 @@ vasudha = {
 - 👯 Looking to collaborate on **AI/ML open source projects**
 - 💬 Ask me about **RAG pipelines, Knowledge Graphs, NLP**
 - 📫 Reach me at **tullavasudha@gmail.com**
-- ⚡ Open to **AI/ML Engineering · Data Science · NLP roles**
+- ⚡ Open to **AI/ML Engineering · Data Analyst · NLP roles**
 
 <br/>
 
