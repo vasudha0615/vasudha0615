@@ -22,9 +22,14 @@
 
 🎓 B.Tech in Computer Science (AI & ML) · Class of 2026
 🏫 Global Institute of Engineering & Technology, Hyderabad
-🛠️ Built an end-to-end AI enterprise platform during internship
-🔍 Love turning unstructured text into structured intelligence
-📊 Strong interest in Data Analytics, Machine Learning & NLP
+🤖 Passionate about Large Language Models, Knowledge Graphs & RAG Pipelines
+🛠️ Built an end-to-end AI enterprise platform during internship — from raw data to live deployment
+🔍 Love turning unstructured text into structured intelligence using NLP & AI
+📊 Strong interest in Data Science, Machine Learning & NLP
+🌱 Currently exploring LangChain, Advanced LLMs & Cloud AI
+💡 Believer in building practical, problem-solving AI solutions
+🚀 Open to AI/ML Engineering · Data Science · NLP opportunities
+⚡ Fun fact: I taught an AI to read 8,469 support tickets and build a knowledge graph automatically! 
 
 <br/>
 
