@@ -18,18 +18,22 @@
 
 </div>
 
-🧠 About Me
+## 🧠 About Me
 
-🎓 B.Tech in Computer Science (AI & ML) · Class of 2026
-🏫 Global Institute of Engineering & Technology, Hyderabad
-🤖 Passionate about Large Language Models, Knowledge Graphs & RAG Pipelines
-🛠️ Built an end-to-end AI enterprise platform during internship — from raw data to live deployment
-🔍 Love turning unstructured text into structured intelligence using NLP & AI
-📊 Strong interest in Data Science, Machine Learning & NLP
-🌱 Currently exploring LangChain, Advanced LLMs & Cloud AI
-💡 Believer in building practical, problem-solving AI solutions
-🚀 Open to AI/ML Engineering · Data Science · NLP opportunities
-⚡ Fun fact: I taught an AI to read 8,469 support tickets and build a knowledge graph automatically! 
+🎓 &nbsp;**B.Tech in Computer Science (AI & ML)** · Class of 2026
+
+🏫 &nbsp;**Global Institute of Engineering & Technology**, Hyderabad
+
+🛠️ &nbsp;Built an **end-to-end AI enterprise platform** during internship — from raw data to live deployment
+
+🔍 &nbsp;Love turning **unstructured text into structured intelligence** using NLP & AI
+
+📊 &nbsp;Strong interest in **Data Analyst, Machine Learning & NLP**
+
+💡 &nbsp;Believer in building **practical, problem-solving AI solutions**
+
+🚀 &nbsp;**Open to AI/ML Engineering · Data Analyst · NLP opportunities**
+
 
 <br/>
 
@@ -153,7 +157,6 @@
 ## 🎯 Currently
 
 - 🔭 Completed **AI Knowledge Graph Builder** internship project
-- 🌱 Learning **Advanced LLMs, LangChain, and Cloud AI**
 - 👯 Looking to collaborate on **AI/ML open source projects**
 - 💬 Ask me about **RAG pipelines, Knowledge Graphs, NLP**
 - 📫 Reach me at **tullavasudha@gmail.com**
