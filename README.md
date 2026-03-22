@@ -28,7 +28,7 @@
 
 🔍 &nbsp;Love turning **unstructured text into structured intelligence** using NLP & AI
 
-📊 &nbsp;Strong interest in **Data Analyst, Machine Learning & NLP**
+📊 &nbsp;Strong interest in **Data Analytics, Machine Learning & NLP**
 
 💡 &nbsp;Believer in building **practical, problem-solving AI solutions**
 
