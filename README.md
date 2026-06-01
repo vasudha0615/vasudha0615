@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Vasudha Tulla 👋
-### Aspiring Data Analyst . AI & Machine Learning Enthusiast
+### Aspiring Data Analyst
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML)+%7C+2026;Building+AI-Powered+Enterprise+Solutions;Knowledge+Graphs+%7C+LLMs+%7C+RAG+Pipelines;Open+to+AI%2FML+Opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
 
